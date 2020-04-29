@@ -42,8 +42,5 @@ OpenCV引入了一套新的教程，它将引导您了解OpenCV-Python中可用�
 * Abid Rahman K.（GSoC-2013实习生）
 
 ## 其他资源
-* Python的快速指南 - Python的[一个字节](http://swaroopch.com/notes/python/)
-* [基本的Numpy教程](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
-* [Numpy示例列表](http://wiki.scipy.org/Numpy_Example_List)
 * [OpenCV文档](http://docs.opencv.org/)
 * [OpenCV论坛](http://answers.opencv.org/questions/)
